@@ -36,7 +36,7 @@
 body {
     font-family: var(--secondary-font);
     width: 100%;
-    background-image: url(/Abdullah_Portfolio/images/Intro/5413332.jpg); 
+    background-image: url(/images/Intro/5413332.jpg); 
     background-color: #1b1440;
   
 }
@@ -160,7 +160,7 @@ p {
     -webkit-transition: all .2s linear;
     -o-transition: all .2s linear;
     transition: all .2s linear;
-    background-image: url(/Abdullah_Portfolio/images/Intro/5413332.jpg); 
+    background-image: url(/images/Intro/5413332.jpg); 
     height: 7rem;
 }
 
@@ -418,7 +418,7 @@ p {
 .newsletter {
     width: 100%;
     height: 100%;
-    background-image: url(/Abdullah_Portfolio/images/contact/4882066.jpg);
+    background-image: url(/images/contact/4882066.jpg);
     background-color: var(--gradient);
     background-repeat: no-repeat;
     background-size: cover;
